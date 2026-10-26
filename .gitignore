@@ -1,0 +1,9 @@
+node_modules/
+dist/
+.env
+.env.*
+*.log
+AGENTS.md
+design-qa.md
+verification.md
+evidence/
